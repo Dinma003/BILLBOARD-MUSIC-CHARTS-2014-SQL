@@ -4,15 +4,15 @@ This repository contains a collection of SQL queries designed to explore and ana
 
  Dataset Overview
 
-Table: `tutorial.billboard_top_100_year_end`
+Table: tutorial.billboard_top_100_year_end
 
 Key Indicators
 
-* `year`: The chart year
-* `year_rank`: Position of the song in the year-end chart (1–100)
-* `song_name`: Title of the song
-* `group_name`: Primary performer or group
-* `artist`: Featured or contributing artist(s)
+* year: The chart year
+* year_rank: Position of the song in the year-end chart (1–100)
+* song_name: Title of the song
+* group_name: Primary performer or group
+* artist: Featured or contributing artist(s)
 
 Areas of Focus
 
