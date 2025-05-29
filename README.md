@@ -51,8 +51,6 @@ Objective
 
 This project serves as a structured exercise in writing and optimizing SQL queries using real-world data. It demonstrates how chart-based cultural datasets can be queried to uncover patterns and support exploratory analysis.
 
-Getting Started
 
-The queries are written for use in SQL environments like Mode Analytics or any platform that supports standard SQL and connects to the provided table schema. Modify and extend them as needed for your analysis.
 
 
